@@ -26,5 +26,4 @@
 
 
 ### Summary
-This calculator uses continuous integeration with Travis.  Each time a commit is pushed to this repository, the commit goes through
-travis which calls the built-in unit tests for each of the above features.
+This calculator uses continuous integeration with Travis.  
